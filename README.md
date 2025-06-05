@@ -34,7 +34,7 @@ Dapp requirements:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/mediolano-app/mediolano-app.git
+git clone https://github.com/mediolano-app/medialane-app.git
 ```
 Install dependencies for Next.js 15 + React 19:
 
@@ -57,11 +57,11 @@ To run the containerized application, there is no dependencies requirement.
 Clone the repository, and run:
 
 ```bash
- docker build -t mediolano-app .     
+ docker build -t medialane-app .     
 ```
 
 To build the image. Then, start the container:
 
 ```bash
-docker run -p 8080:8080 mediolano-app
+docker run -p 8080:8080 medialane-app
 ```
