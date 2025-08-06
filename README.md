@@ -1,13 +1,16 @@
-# medialane-app
-MediaLane Programmable IP Trading Dapp - Powered on Starknet
+# IP Marketplace for the Integrity Web
 
-By Mediolano
+Medialane is a permissionless marketplace where creators, autonomous agents, and businesses own, license, and trade intellectual property with full transparency, control, and sovereignty.
+Built on the Mediolano Protocol, MediaLane transforms digital assets into programmable public goods — empowering a new era of content creation and monetization.
+
+<img width="1342" height="661" alt="image" src="https://github.com/user-attachments/assets/7a2eb035-9a27-43f9-8c18-73a4fc9bda7b" />
+
 
 Mediolano Protocol empowers creators to register, license and monetize intellectual property. Powered on Starknet.
 
 Quick links:
 <br>
-<a href="https://ip.mediolano.app">Mediolano Dapp (Sepolia)</a>
+<a href="https://ip.mediolano.app">Mediolano Dapp</a>
 <br>
 <a href="https://mediolano.xyz">Website mediolano.xyz</a>
 <br>
